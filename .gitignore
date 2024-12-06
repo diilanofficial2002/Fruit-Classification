@@ -12,3 +12,4 @@ classifiedenv/
 
 # unnecessary files
 data/processed/
+temp/
