@@ -22,8 +22,8 @@ This project aims to develop a machine learning model that classifies images int
 ## Dataset
 The dataset used for training the model includes labeled images of fruits and vegetables. You can download the dataset from:
 
-[Download Dataset from Kaggle](https://www.kaggle.com/datasets/moltean/fruits)
-[Download Dataset from images.cv](https://images.cv/)
+- [Download Dataset from Kaggle](https://www.kaggle.com/datasets/moltean/fruits)
+- [Download Dataset from images.cv](https://images.cv/)
 
 ---
 
