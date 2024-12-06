@@ -38,7 +38,13 @@ The dataset used for training the model includes labeled images of fruits and ve
     git clone https://github.com/diilanofficial2002/Fruit-Classification.git
     cd Fruit-Classification
     ```
-2. Install dependencies:
+2. Create virtual environment:
+    ```bash
+    pip install venv
+    python -m venv myenv
+    myenv\Scripts\activate
+    ```
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
