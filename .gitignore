@@ -13,3 +13,6 @@ classifiedenv/
 # unnecessary files
 data/processed/
 temp/
+temp.ipynb
+fruits-360_dataset_original-size/
+fruits-360_dataset_100x100/
