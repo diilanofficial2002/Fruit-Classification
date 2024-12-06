@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+env/
+myenv/
+myenv/
+.venv
+.env
+.myvenv
+.myenv
+mlenv/
+classifiedenv/
+
+# unnecessary files
+data/processed/
